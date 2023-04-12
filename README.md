@@ -2,6 +2,7 @@ Feature Selection for Stock Trading using Extra Trees Classifier
 This Python code is designed to perform feature selection on financial and macroeconomic data for multiple stock tickers, and save the resulting feature importances to a CSV file.
 
 Requirements
+
 Python 3.x
 Pandas
 Numpy
